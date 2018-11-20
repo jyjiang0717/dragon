@@ -1,0 +1,9 @@
+body{
+  text-align:right;
+}
+#menu{
+  list-style:none;
+}
+#menu li{
+  display:inline-block;
+}
